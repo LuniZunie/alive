@@ -1,0 +1,40 @@
+[
+  "aala", "aalc", "aaya", "acma", "acmc", "afaa", "afac", "afad", "afay", "afca",
+  "afcc", "afcd", "afcl", "afcp", "afcy", "affa", "afmc", "afpa", "afya", "alda",
+  "alla", "alya", "alyd", "amfa", "ayca", "aycc", "aycd", "aycf", "aycp", "aycy",
+  "ayfa", "ayya", "ayyc", "ayyf",
+
+  "caaa", "caac", "caay", "cada", "cadc", "cadl", "cady", "cama", "caya", "ccaa",
+  "ccda", "ccdc", "cdya", "cfca", "cfma", "claa", "clcc", "clcy", "cpda", "cpdc",
+  "cpyc", "cyla",
+
+  "daac", "daay", "daca", "dapa", "dcaa", "dcca", "dccd", "dccf", "dccy", "ddla",
+  "ddlc", "ddly", "ddmd", "ddyl", "dfca", "dlac", "dlad", "dlay", "dlfa", "dmca",
+  "dmma", "dmmc", "dmmy", "dpma", "dppd", "dydd", "dyma", "dyya", "dyyl",
+
+  "faaa", "faca", "fcca", "fccc", "fcda", "fcdc", "fdac", "fdal", "fday", "fdca",
+  "fdcc", "fdcy", "fdfd", "fdla", "fdlc", "fdya", "flca", "flcc", "flcl", "flcy",
+  "flda", "fldc", "flfa", "flfd", "flfl", "flfp", "flfy", "fmca", "fpfa", "fpla",
+  "fplc", "fplp", "fply", "fpya", "fpyc", "fyla", "fypd", "fypf", "fyya",
+
+  "lacl", "lacy", "lada", "lafa", "lafc", "lcda", "lcfa", "lcya", "ldca", "ldcc",
+  "ldcl", "ldcy", "ldda", "lddl", "ldla", "lfaa", "lfca", "lfcc", "lfla", "llaa",
+  "llda", "llpa", "llpc", "lmaa", "lmac", "lmay", "lmfa", "lmyc", "lppa", "lppc",
+  "lppl", "lppy", "lpya", "lyda", "lydc", "lydd", "lydl", "lydy", "lyfa", "lyma",
+  "lyya",
+
+  "maya", "mpac", "mpad", "mpaf", "mpal", "mpap", "mpca", "mpcc", "mpcd", "mpcf",
+  "mpcl", "mpcm", "mpcp", "mpcy", "mpla", "mpld", "mpll", "mplm", "mply", "mppc",
+  "mppl", "mppy", "mpya", "mpyc", "mpyd", "mpyf", "mpym", "mpyy",
+
+  "pada", "pala", "palc", "paly", "paya", "pcaa", "pcda", "pcdc", "pcfd", "pdfa",
+  "pdff", "pfla", "pflc", "pfll", "pfly", "pldl", "pmda", "pmfd", "ppaa", "ppla",
+  "ppld", "pplf", "ppma", "ppmd", "pyca", "pypa", "pypc", "pypl", "pypp", "pypy",
+  "pyya", "pyyc",
+
+  "yaca", "yacc", "yada", "yala", "yama", "yapa", "yapc", "yapl", "yapm", "yapp",
+  "yapy", "ycca", "yccc", "ycfa", "ydca", "ydmd", "ydpa", "yfya", "yfyc", "yfyl",
+  "ylla", "ylya", "ylyc", "ymaa", "ymac", "ymad", "ymaf", "ymal", "ymam", "ymap",
+  "ymay", "ymca", "ymcc", "ymcd", "ymcf", "ymcl", "ymcm", "ymcp", "ymcy", "ymfa",
+  "ympa", "yyca", "yyla"
+]
