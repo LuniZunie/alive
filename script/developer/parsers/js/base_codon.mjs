@@ -10,19 +10,7 @@ const codes = {
   }
 };
 const codonLen = 4;
-
-const expected = [];
 const expectedLen = codes.char.length ** codonLen;
-for (let i = 0; i < expectedLen; i++) {
-  const codon = i
-    .toString(codes.char.length)
-    .padStart(codonLen, '0')
-    .split('')
-    .map(v => codes.char[+v])
-    .join('');
-
-  expected.push(codon);
-}
 
 (async function() {
   const modOps = [ 'a & b || a * b % 0xFFFFFFFFn', 'a & b ? a ^ b : a * b % 0xEEEEEEEEn', 'a + b', 'a > b ? a - b : b - a' ]

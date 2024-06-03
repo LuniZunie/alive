@@ -1,26 +1,11 @@
 import * as qol_temp from './qol.mjs';
-Object.assign(window, qol_temp);
-qol_temp = undefined;
+Object.assign(globalThis, qol_temp);
 
 import _INTERNAL__temp from './internal.mjs';
 import { execCheck } from './internal.mjs';
 
 export {
-  Prandom,
-  language_syntax
-};
-
-const config = {
-  prandom: {
-    seed: 0,
-    seed_mod: 0xFFFFFF2F,
-    seed_mul: 0x10001,
-    i_mod: 0xFFFFFFA7F,
-    i_mul: 0x10001,
-    precision: 10e+5,
-    global: undefined, // initialized later
-  },
-  safe_mode: true,
+  language_syntax,
 };
 
 const _INTERNAL_ = Object.fromEntries(
